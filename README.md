@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a seasoned software engineer and product strategist with entrepreneurial drive. Since 2014, I've built successful products from scratch, led engineering teams, and shared my technical insights through writing since 2017.
+I'm an experienced software developer and team lead with a strong product strategy and entrepreneurship background. I've worked at startups, mid-sized companies, and financial firms. I build world-class teams and help set technical direction and vision.
 
-[https://www.trevorlasn.com/](https://www.trevorlasn.com/)
+More about me -> [https://www.trevorlasn.com/](https://www.trevorlasn.com/)
 
 ![Trevors's GitHub stats](https://github-readme-stats.vercel.app/api?username=indreklasn&show_icons=true&theme=synthwave)
 
